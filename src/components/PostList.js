@@ -45,4 +45,4 @@ const PostList = () => {
 };
 
 export { PostList };
-Footer;
+// Footer;
